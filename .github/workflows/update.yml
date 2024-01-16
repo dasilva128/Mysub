@@ -20,9 +20,9 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.email "vip.mahditaheri@gmail.com"
-          git config --global user.name "MhdiTaheri"
-          git remote set-url origin https://github.com/MhdiTaheri/V2rayCollector-py.git
+          git config --global user.email "khodahossein61@gmail.com"
+          git config --global user.name "Saviorhoss"
+          git remote set-url origin https://github.com/Saviorhoss/V2py.git
       
       - name: Install dependencies
         run: |
