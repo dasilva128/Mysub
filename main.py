@@ -206,7 +206,7 @@ if __name__ == "__main__":
 "https://t.me/s/IRN_VPN",
 "https://t.me/s/flyv2ray",
 "https://t.me/s/forwardv2ray",
-https://t.me/s/v2line",
+"https://t.me/s/v2line",
 "https://t.me/s/forwardv2ray",
 "https://t.me/s/inikotesla",
 "https://t.me/s/PrivateVPNs",
