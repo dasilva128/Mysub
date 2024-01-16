@@ -35,5 +35,4 @@ jobs:
           python main.py  # Replace with your script's path
           git add -A
           git commit -m "The servers have been updated✔ - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
-          git pull --rebase origin main
           git push
