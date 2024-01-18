@@ -33,5 +33,6 @@ jobs:
       - name: Run Python script
         run: |
           python main.py  # Replace with your script's path
+          git commit -a
           git commit -m "The servers have been updated✔ - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           
