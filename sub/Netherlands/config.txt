@@ -1,4 +1,4 @@
-vless://HinaVPNmci@dns-internal.linkpc.net:2096?security=tls&sni=dns-internal.linkpc.net&type=ws&path=/@HinaVPN,@HinaVPN,@HinaVPN,@HinaVPN,@HinaVPN,@HinaVPN,@HinaVPN,@HinaVPN?ed%3D2048&host=dns-internal.linkpc.net&encryption=none#%F0%9F%94%B5@HinaVPNbot%20%D8%B1%D8%A8%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://e224f92f-eb57-4f8c-b944-5612232f92e2@178.62.241.13:2053/?type=ws&encryption=none&host=Zula.ir&path=%2F#WS-@ELiV2RAY
 vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 ss://YWVzLTI1Ni1nY206SG52bnpGSjdtL0VJODQzTElwclE4YnBzQmhVMGJpN1hrK3hMeEJJQ1JYND0=@nl-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282012%29%20NL
@@ -11,6 +11,7 @@ vless://cd9bf18f-e7f1-457d-aa48-59f8ae9a2309@l-mi.mrmax2.sbs:443/?type=tcp&encry
 vless://98314183-548a-4606-a177-bdb2f67ac272@159.223.241.60:31175?type=tcp&security=reality&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&fp=firefox&sni=greenpepper.ir&sid=f2e78b8b&spx=%2F#@Capital_NET
 vless://98314183-548a-4606-a177-bdb2f67ac272@64.225.81.175:31175?security=reality&encryption=none&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=greenpepper.ir&sid=f2e78b8b#@Capital_NET
 ss://YWVzLTI1Ni1nY206SG52bnpGSjdtL0VJODQzTElwclE4YnBzQmhVMGJpN1hrK3hMeEJJQ1JYND0=@nl-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282012%29%20NL
+vless://e224f92f-eb57-4f8c-b944-5612232f92e2@178.62.241.13:2053/?type=ws&encryption=none&host=Zula.ir&path=%2F#WS-@ELiV2RAY
 vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#https://t.me/ShadowsocksMss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#https://t.me/ShadowsocksMss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#https://t.me/ShadowsocksM
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#https://t.me/ShadowsocksMss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#https://t.me/ShadowsocksMss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#https://t.me/ShadowsocksM
