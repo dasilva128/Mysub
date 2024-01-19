@@ -72,6 +72,14 @@ def save_configs_by_region(configs):
             with open(os.path.join(region_folder, 'config.txt'), 'a', encoding='utf-8') as file:
                 file.write(config + '\n')
 
+    all_configs_folder = "all_configs"
+    if not os.path.exists(all_configs_folder):
+        os.makedirs(all_configs_folder)
+
+    with open(os.path.join(all_configs_folder, 'all_configs.txt'), 'a', encoding='utf-8') as file:
+        for config in configs:
+            file.write(config + '\n')
+
 
 def create_sub_section():
     readme_path = "README.md"
