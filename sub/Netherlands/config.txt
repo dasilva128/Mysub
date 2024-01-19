@@ -13,6 +13,12 @@ vless://cd9bf18f-e7f1-457d-aa48-59f8ae9a2309@l-mi.mrmax2.sbs:443/?type=tcp&encry
 vless://cd9bf18f-e7f1-457d-aa48-59f8ae9a2309@l-mi.mrmax2.sbs:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=booking.com&fp=chrome&security=reality&pbk=keFsya_-stbGVSvWfpNjwB5SM2iFfwoQT0eToV88shM&sid=2a87bdca#@Capital_NET | MTN
 vless://98314183-548a-4606-a177-bdb2f67ac272@159.223.241.60:31175?type=tcp&security=reality&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&fp=firefox&sni=greenpepper.ir&sid=f2e78b8b&spx=%2F#@Capital_NET
 vless://98314183-548a-4606-a177-bdb2f67ac272@64.225.81.175:31175?security=reality&encryption=none&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=greenpepper.ir&sid=f2e78b8b#@Capital_NET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ@89.19.216.18:8388#%F0%9F%9A%B122%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ@89.19.216.18:8388#%F0%9F%9A%B122%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ@89.19.216.18:8388#%F0%9F%9A%B122%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ@89.19.216.18:8388#%F0%9F%9A%B122%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ@89.19.216.18:8388#%F0%9F%9A%B122%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ@89.19.216.18:8388#%F0%9F%9A%B122%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206SG52bnpGSjdtL0VJODQzTElwclE4YnBzQmhVMGJpN1hrK3hMeEJJQ1JYND0=@nl-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282012%29%20NL
 vless://e224f92f-eb57-4f8c-b944-5612232f92e2@178.62.241.13:2053/?type=ws&encryption=none&host=Zula.ir&path=%2F#WS-@ELiV2RAY
 vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
