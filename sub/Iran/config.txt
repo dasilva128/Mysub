@@ -1,11 +1,11 @@
 vless://3c088323-70b2-4a48-8882-7331de3d761f@tunnel2.allform.top:16772?security=reality&encryption=none&pbk=6SGt08L4xAjQPJKlPaya8Ee5zIwZHh9DNknxXwZXJDo&headerType=none&fp=firefox&spx=%2Fdownload&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=9a2b6bed#🇩🇪Reality-ELiV2RAY
 vless://3c088323-70b2-4a48-8882-7331de3d761f@tunnel2.allform.top:16772?security=reality&encryption=none&pbk=6SGt08L4xAjQPJKlPaya8Ee5zIwZHh9DNknxXwZXJDo&headerType=none&fp=firefox&spx=%2Fdownload&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=9a2b6bed#🇩🇪Reality-ELiV2RAY
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#@ELiV2RAY
-vless://199c07f3-60ea-4df8-c5cd-64287a30aea4@37.32.4.183:54462/@ELiV2RAY-@ELiV2RAY?type=ws&encryption=none&path=%2F#
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585/?type=ws&encryption=none&path=%2F#ALL-@ELiV2RAY
 vless://VPNCUSTOMIZE@snapp.ir:80?host=upload.ir&type=ws#تست کنید نتیجه بگید😭خاموش کردم
 vless://VPNCUSTOMIZE@snapp.ir:80?host=upload.ir&type=ws#تست کنید نتیجه بگید😭خاموش کردم
 vless://VPNCUSTOMIZE@snapp.ir:80?host=upload.ir&type=ws#تست کنید نتیجه بگید😭خاموش کردم
+vless://8d6d02e4-9aea-49db-bf55-8738e04e9c78@81.12.27.2:8443?type=ws&security=none&path=%2F#NL%F0%9F%87%B3%F0%9F%87%B1-@DarkTeam_VPN
 vless://6ac5828d-8427-4b25-8eb8-8a7bff62f50d@78.109.194.176:10400?security=none&encryption=none&headerType=none&type=tcp#LIQ%7C+FREE70
 vless://73c513fc-5e99-449d-8f4f-8aa84c69f22f@dari.news-liqgroup1278.site:39621?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=milan.news-liqgroup1278.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE71-%40liq_vpn
 vless://e32064c6-db6c-42cf-be48-006fffbc6765@dari.news-liqgroup1278.site:39621?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=milan.news-liqgroup1278.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE72-%40liq_vpn
@@ -33,9 +33,6 @@ vless://d7bb4938-2677-6142-5f80-34064f615b7c@n2.darklord.life:443?type=tcp&secur
 trojan://x7BVorAvEP@cdn.toucan-config.cloud:2083?type=ws&path=%2F&security=tls&fp=chrome&alpn=&sni=cdn.toucan-config.cloud##lrnbymaa-50GB
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#@MrV2Ray
 vless://be116e54-f06b-4cae-9eae-e4c658131b2a@kinghooman.melodyfree.xyz:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
-vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&serviceName=@AstroVPN_official&type=ws#@meli_proxyy`
-vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&serviceName=@AstroVPN_official&type=ws#@meli_proxyy
-vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&serviceName=@AstroVPN_official&type=ws#@meli_proxyy`
 vless://6435aa64-be46-4145-a05f-e074d5aebc43@81.12.27.16:2046?path=%2F&security=none&encryption=none&type=ws#MCI1
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#ELiV2RAYMCI
 vless://03f8d51e-8e0d-44df-a302-d5d1b9d24751@nim.webobin.site:8080?path=%2F&security=none&encryption=none&host=nim.snap.ir&type=ws#%40networknim
@@ -43,7 +40,6 @@ vless://2180d14d-86f9-411e-a5c3-48bda809fa81@nim.webobin.site:8080?path=%2F&secu
 vless://3c088323-70b2-4a48-8882-7331de3d761f@tunnel2.allform.top:16772?security=reality&encryption=none&pbk=6SGt08L4xAjQPJKlPaya8Ee5zIwZHh9DNknxXwZXJDo&headerType=none&fp=firefox&spx=%2Fdownload&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=9a2b6bed#🇩🇪Reality-ELiV2RAY
 vless://3c088323-70b2-4a48-8882-7331de3d761f@tunnel2.allform.top:16772?security=reality&encryption=none&pbk=6SGt08L4xAjQPJKlPaya8Ee5zIwZHh9DNknxXwZXJDo&headerType=none&fp=firefox&spx=%2Fdownload&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=9a2b6bed#🇩🇪Reality-ELiV2RAY
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#@ELiV2RAY
-vless://199c07f3-60ea-4df8-c5cd-64287a30aea4@37.32.4.183:54462/@ELiV2RAY-@ELiV2RAY?type=ws&encryption=none&path=%2F#
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585/?type=ws&encryption=none&path=%2F#ALL-@ELiV2RAY
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
