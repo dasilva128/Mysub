@@ -7,6 +7,7 @@ vless://522f8f41-b380-4d0e-8a62-d58e46f033e5@5.42.87.192:15624?security=reality&
 trojan://telegram-id-privatevpns@51.21.84.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.51.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.59.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.20.241.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@13.49.248.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.16.51.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.114.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
@@ -36,6 +37,7 @@ vless://23758119-cf33-4269-fb50-bc04930d356a@13.50.17.155:8443?encryption=none&f
 trojan://telegram-id-privatevpns@51.21.84.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.51.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.59.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.20.241.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.219.192:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.190.156:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVjIweHMxV0pUbzcwNmZqVEpCSlF1T1BCckdyN3BSYk0wWU5WNEVWaFhFPQ==@buy-business.h0stname.net:80#%F0%9F%87%BA%F0%9F%87%B8telegram+%E2%9E%A0+%40v2rayNG_Matsuriss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVjIweHMxV0pUbzcwNmZqVEpCSlF1T1BCckdyN3BSYk0wWU5WNEVWaFhFPQ==@13.50.247.128:80#%F0%9F%87%BA%F0%9F%87%B8telegram+%E2%9E%A0+%40v2rayNG_Matsuriss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVjIweHMxV0pUbzcwNmZqVEpCSlF1T1BCckdyN3BSYk0wWU5WNEVWaFhFPQ==@13.53.194.228:80#%F0%9F%87%BA%F0%9F%87%B8telegram+%E2%9E%A0+%40v2rayNG_Matsuritelegram ➠ @v2rayNG_Matsuritelegram ➠ @v2rayNG_Matsuritelegram ➠ @v2rayNG_Matsuritelegram ➠ @v2rayNG_Matsuritelegram ➠ @v2rayNG_Matsuritelegram ➠ @v2rayNG_Matsuritelegram ➠ @v2rayNG_Matsuritelegram ➠ @v2rayNG_Matsuritelegram ➠ @v2rayNG_Matsuritelegram ➠ @v2rayNG_Matsuriss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVjIweHMxV0pUbzcwNmZqVEpCSlF1T1BCckdyN3BSYk0wWU5WNEVWaFhFPQ==@ziro07.h0stname.net:80#%F0%9F%87%BA%F0%9F%87%B8telegram+%E2%9E%A0+%40v2rayNG_Matsuri
@@ -62,6 +64,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMXQ2dGVpSHlPSjZuU3VBS09HYThyVkRBUUtGMHVUM3p
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMXQ2dGVpSHlPSjZuU3VBS09HYThyVkRBUUtGMHVUM3pNT1VYdFZQbFNVPQ==@13.49.175.105.sslip.io:80#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMXQ2dGVpSHlPSjZuU3VBS09HYThyVkRBUUtGMHVUM3pNT1VYdFZQbFNVPQ==@13.50.251.228.sslip.io:80#
 vless://a0ac6650-2c3e-48d4-d873-c1beaa12d4f4@172.232.128.41:33345?mode=gun&security=none&encryption=none&type=grpc&serviceName=#RTL-MTN+mci+%F0%9F%91%91+%40V2rayN_Free
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMXQ2dGVpSHlPSjZuU3VBS09HYThyVkRBUUtGMHVUM3pNT1VYdFZQbFNVPQ==@13.49.148.86:80#%F0%9F%87%B8%F0%9F%87%AA+%40VPN_OCEAN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMXQ2dGVpSHlPSjZuU3VBS09HYThyVkRBUUtGMHVUM3pNT1VYdFZQbFNVPQ==@13.50.251.228:80#%F0%9F%87%B8%F0%9F%87%AA+%40VPN_OCEANss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMXQ2dGVpSHlPSjZuU3VBS09HYThyVkRBUUtGMHVUM3pNT1VYdFZQbFNVPQ==@13.53.137.45:80#%F0%9F%87%B8%F0%9F%87%AA+%40VPN_OCEAN
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
