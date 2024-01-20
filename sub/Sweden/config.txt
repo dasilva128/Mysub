@@ -1,7 +1,5 @@
 vless://64272a1b-fcab-4eef-a09a-8459dda467b2@45.82.13.135:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tun1n.gsmxreality.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=_sTFgvAF7aj2yRzeXSx9TDdu-mhyqBr0WMLfI9SxBz0&sid=0bb95c9e598a7bd4#Reality-@ELiV2RAY
 vless://b44481aa-46c7-4d2f-e342-1317d65adfd2@70.34.219.139:443/?type=grpc&encryption=none&sni=reversereality2.freelines.net&alpn=h2&fp=chrome&security=reality&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid=#🇸🇪SE-@ELiV2RAY
-vless://23758119-cf33-4269-fb50-bc04930d356a@16.16.141.25:2083?security=reality&encryption=none&pbk=ShPth8QS5a900vN2moVQSJYVq8sY37F74F1-bThQSHc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cdn.amazon.com&sid=214229#%40v2logy
-vless://522f8f41-b380-4d0e-8a62-d58e46f033e5@5.42.87.192:15624?security=reality&encryption=none&pbk=lQGRbs-7RUvkkmMr-Ubi-BqRWMaCFJdyXEnV17T6SDU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=3cce3e722e92e60f#%40servermomo
 trojan://telegram-id-privatevpns@51.20.59.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.241.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@16.16.86.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
