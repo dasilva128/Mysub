@@ -1,6 +1,0 @@
-trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@103.197.184.41:443?security=tls&headerType=none&type=tcp#WebRovers%E2%84%A2+%F0%9F%91%81%EF%B8%8F
-trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@103.197.184.41:443?security=tls&headerType=none&type=tcp#WebRovers%E2%84%A2+%F0%9F%91%81%EF%B8%8F
-trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@103.197.184.41:443?security=tls&headerType=none&type=tcp#WebRovers%E2%84%A2+%F0%9F%91%81%EF%B8%8F
-trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@103.197.184.41:443?security=tls&headerType=none&type=tcp#WebRovers%E2%84%A2+%F0%9F%91%81%EF%B8%8F
-trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@103.197.184.41:443?security=tls&headerType=none&type=tcp#WebRovers%E2%84%A2+%F0%9F%91%81%EF%B8%8F
-trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@103.197.184.41:443?security=tls&headerType=none&type=tcp#WebRovers%E2%84%A2+%F0%9F%91%81%EF%B8%8F
