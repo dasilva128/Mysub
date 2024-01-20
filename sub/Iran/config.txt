@@ -33,6 +33,12 @@ vless://a1ba5712-f0fa-fcb3-6c09-bbb589ef6d88@n2.darklord.life:443?type=tcp&secur
 vless://19e09fbf-47aa-2b81-23ee-80208f257fdf@f1.darklord.life:443?type=tcp&security=none&headerType=http&host=divarcdn.com&path=%2F#@vless_vmess
 vless://992e7f9c-beb1-2c00-1c39-516d5a9011b8@l18.darklord.life:443?type=tcp&security=none&headerType=http&host=divarcdn.com&path=%2F#@vless_vmess
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#@MrV2Ray
+vless://fa1661aa-a1e3-4b74-9a2d-1d4d62050bc5@pr.dadnetiran.xyz:12754?encryption=none&fp=firefox&headerType=none&pbk=7Ig5GBzwQkBPQ-3gEPgBjTt-6N14VNcW6qgsTW2dKxA&security=reality&sid=02085b77&sni=discord.com&spx=%2F&type=tcp#11✊t.me/vPlusVPN_FREE`
+vless://fa1661aa-a1e3-4b74-9a2d-1d4d62050bc5@pr.dadnetiran.xyz:12754?encryption=none&fp=firefox&headerType=none&pbk=7Ig5GBzwQkBPQ-3gEPgBjTt-6N14VNcW6qgsTW2dKxA&security=reality&sid=02085b77&sni=discord.com&spx=%2F&type=tcp#11✊t.me/vPlusVPN_FREE
+vless://fa1661aa-a1e3-4b74-9a2d-1d4d62050bc5@pr.dadnetiran.xyz:12754?encryption=none&fp=firefox&headerType=none&pbk=7Ig5GBzwQkBPQ-3gEPgBjTt-6N14VNcW6qgsTW2dKxA&security=reality&sid=02085b77&sni=discord.com&spx=%2F&type=tcp#11✊t.me/vPlusVPN_FREE`
+vless://fa1661aa-a1e3-4b74-9a2d-1d4d62050bc5@pr.dadnetiran.xyz:12754?encryption=none&fp=firefox&headerType=none&pbk=7Ig5GBzwQkBPQ-3gEPgBjTt-6N14VNcW6qgsTW2dKxA&security=reality&sid=02085b77&sni=discord.com&spx=%2F&type=tcp#11✊t.me/vPlusVPN_FREE`
+vless://fa1661aa-a1e3-4b74-9a2d-1d4d62050bc5@pr.dadnetiran.xyz:12754?encryption=none&fp=firefox&headerType=none&pbk=7Ig5GBzwQkBPQ-3gEPgBjTt-6N14VNcW6qgsTW2dKxA&security=reality&sid=02085b77&sni=discord.com&spx=%2F&type=tcp#11✊t.me/vPlusVPN_FREE
+vless://fa1661aa-a1e3-4b74-9a2d-1d4d62050bc5@pr.dadnetiran.xyz:12754?encryption=none&fp=firefox&headerType=none&pbk=7Ig5GBzwQkBPQ-3gEPgBjTt-6N14VNcW6qgsTW2dKxA&security=reality&sid=02085b77&sni=discord.com&spx=%2F&type=tcp#11✊t.me/vPlusVPN_FREE`
 vless://6435aa64-be46-4145-a05f-e074d5aebc43@81.12.27.16:2046?path=%2F&security=none&encryption=none&type=ws#MCI1
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#ELiV2RAYMCI
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#Eli2
