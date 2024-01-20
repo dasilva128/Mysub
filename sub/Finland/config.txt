@@ -4,7 +4,6 @@ vless://telegram-id-ArV2ray@65.108.157.155:443?mode=gun&security=reality&encrypt
 vless://telegram-id-ArV2ray@65.109.141.23:443?mode=gun&security=reality&encryption=none&pbk=5ICDt0rzuoRhdqwDkifcjA-xv8oS89mh4nxux59jDWg&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=e2bc6e7ffd#test-%40ArV2ray
 vless://e15f76e9-870d-4237-b4f0-7d403fa9f31c@finland.notmmdg.com:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=notmmdg.com#mmd+%7C+mmd
 vless://02aa594a-af2e-4b35-8a17-5986ce15c7b5@37.27.4.17:443?mode=gun&security=reality&encryption=none&pbk=FCSi3ZigbnUJZn18TvvshvRfjjlcxpH1grw87kV6mTA&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=www.forcespeed.fun&sid=483211d3#
-vless://9a073b38-1040-4e9e-c0a1-8a80d26a31a1@65.109.241.213:37900?security=none&encryption=none&headerType=http&type=tcp#%40MTConfig
 vless://51cb5c21-a267-4852-e209-8996aadce044@65.109.241.213:37900?security=none&encryption=none&headerType=http&type=tcp#%40MTConfig
 vless://5f6f621a-e584-452c-84bf-56a1c2796147@65.109.241.213:37900?security=none&encryption=none&headerType=http&type=tcp#%40MTConfig
 vless://e15f76e9-870d-4237-b4f0-7d403fa9f31c@finland.notmmdg.com:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=notmmdg.com#%40proxystore11+%7C+all
