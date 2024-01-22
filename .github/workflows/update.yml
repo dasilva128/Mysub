@@ -21,8 +21,8 @@ jobs:
       - name: Configure Git
         run: |
           git config --global user.email "khodahossein61@gmail.com"
-          git config --global user.name "Saviorhoss"
-          git remote set-url origin https://github.com/Saviorhoss/V2py.git
+          git config --global user.name "Hosseinsavior"
+          git remote set-url origin https://github.com/Hosseinsavior/V2py.git
       
       - name: Install dependencies
         run: |
