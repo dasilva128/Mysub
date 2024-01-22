@@ -1,6 +1,3 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
-vless://0c6850cb-d5a9-4439-841d-6ed5b56833d9@212.64.214.49:8443?mode=gun&security=reality&encryption=none&pbk=WbTY9wLvzMPGAkzk40W0C-ccgzMvNtUGRpDxpf-o_Hg&fp=chrome&type=grpc&serviceName=xyz&sni=zula.ir#%40v2ray_napster_vpn+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%92%9B`
-vless://0c6850cb-d5a9-4439-841d-6ed5b56833d9@212.64.214.49:8443?mode=gun&security=reality&encryption=none&pbk=WbTY9wLvzMPGAkzk40W0C-ccgzMvNtUGRpDxpf-o_Hg&fp=chrome&type=grpc&serviceName=xyz&sni=zula.ir#%40v2ray_napster_vpn+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%92%9B
-vless://0c6850cb-d5a9-4439-841d-6ed5b56833d9@212.64.214.49:8443?mode=gun&security=reality&encryption=none&pbk=WbTY9wLvzMPGAkzk40W0C-ccgzMvNtUGRpDxpf-o_Hg&fp=chrome&type=grpc&serviceName=xyz&sni=zula.ir#%40v2ray_napster_vpn+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%92%9B`
 ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR
