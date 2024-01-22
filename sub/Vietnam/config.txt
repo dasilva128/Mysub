@@ -1,0 +1,6 @@
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?type=tcp&sni=lienquan.garena.vn&allowInsecure=1#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E8%B6%8A%E5%8D%97
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?type=tcp&sni=lienquan.garena.vn&allowInsecure=1#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E8%B6%8A%E5%8D%97
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?type=tcp&sni=lienquan.garena.vn&allowInsecure=1#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E8%B6%8A%E5%8D%97
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?type=tcp&sni=lienquan.garena.vn&allowInsecure=1#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E8%B6%8A%E5%8D%97
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?type=tcp&sni=lienquan.garena.vn&allowInsecure=1#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E8%B6%8A%E5%8D%97
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?type=tcp&sni=lienquan.garena.vn&allowInsecure=1#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E8%B6%8A%E5%8D%97
