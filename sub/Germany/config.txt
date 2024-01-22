@@ -63,11 +63,9 @@ vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&securi
 vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&security=reality&encryption=none&pbk=iWgxGQVQZUfOCw4EqmHQToaQPqYt0V5hAfnDo6p-Izg&fp=firefox&type=grpc&serviceName=TelegramID:@iranbaxvpn&sni=iranserver.com&sid=33fb#iOS..V2box
 vless://fcaf5da5-ff63-4493-8ec1-90c46b26022d@81.28.6.228:25010?security=none&encryption=none&host=ghbi.ir&headerType=http&type=tcp#%40V2ray_NG..IRANCELL
 vless://mahsa-azadi-az-inja-migzare@mahsang-1.dgi000.store:20179?mode=gun&security=reality&encryption=none&pbk=NiLbMrihxRX8EiSRutSOFRkkR6eOa6P_fxNiSIiMMCE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.ghbi.ir&sid=31c991f8#iOS..V2box
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40V2ray_NG
 vless://v2ray_best_iran@best1.channeltest.space:1373?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=best1.channeltest.space#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVjIweHMxV0pUbzcwNmZqVEpCSlF1T1BCckdyN3BSYk0wWU5WNEVWaFhFPQ@buy-business.h0stname.net:80#
 vless://v2ray_best_iran@best1.channeltest.space:1373?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=best1.channeltest.space#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#United
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVjIweHMxV0pUbzcwNmZqVEpCSlF1T1BCckdyN3BSYk0wWU5WNEVWaFhFPQ@buy-business.h0stname.net:80#
 vless://v2ray_best_iran@best1.channeltest.space:1373?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=best1.channeltest.space#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVjIweHMxV0pUbzcwNmZqVEpCSlF1T1BCckdyN3BSYk0wWU5WNEVWaFhFPQ@buy-business.h0stname.net:80#
