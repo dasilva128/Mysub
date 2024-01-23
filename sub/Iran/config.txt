@@ -1,6 +1,6 @@
-vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5111?security=none&path=/@LIGHTNING6&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
-vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5112?security=none&path=/@LIGHTNING6&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
-vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5113?security=none&path=/@LIGHTNING6&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
+vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5111?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
+vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
+vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5113?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
 vless://a09bdee5-4be9-4a7b-83c6-01597aab1c3e@dari.news-liqgroup1278.site:3001?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=milan.news-liqgroup1278.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE74-%40liq_vpn
 vless://c726be72-dd41-4739-ad5e-65ba4de61a6f@dari.news-liqgroup1278.site:3001?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=milan.news-liqgroup1278.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE75-%40liq_vpn
 trojan://jWTq3OZkXs@dari.news-liqgroup1278.site:2001?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=milan.news-liqgroup1278.site#LIQ%E2%80%A2-FREE76-%40liq_vpn
