@@ -58,6 +58,18 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#5000g-@v2rayng_config_amin
 vless://551cec03-459b-44c4-b2f1-e2b00d64c7a0@138.68.137.73:17293/?type=grpc&encryption=none&serviceName=telegram%3A%40proxyforopeta&sni=discord.com&fp=firefox&security=reality&pbk=Vh49zRfE7BzeIquhoEOC6RdvTPz5IkmE1J2imSSZoHg&sid=5d694d7d#@Capital_NET | MCI
 vless://12959e76-3f23-40a3-b94b-848b64c6a234@178.62.76.106:20248/?type=grpc&encryption=none&serviceName=%40proxyforopeta&sni=www.google.com&fp=firefox&security=reality&pbk=2Lxke5-99aKfEtI4_UiNhAB0CJYs4CA_8r-376g2ZWQ&sid=0b03c417#@Capital_NET | MTN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40v2ray_swhil+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40nsv2ray+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40v2ray_swhil+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40v2ray_swhil+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40v2ray_swhil+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40nsv2ray+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40v2ray_swhil+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40v2ray_swhil+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40v2ray_swhil+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40nsv2ray+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40v2ray_swhil+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40v2ray_swhil+channel+%22%22%3B%22%3B%22%3B%3B%22%3B%22%3B%22%3B%22%3B%22%22%3B%22%3B%3B%22%3B%3B%27%3B%3B%3B%27%3B%3B%27%3B%27%3B
 trojan://telegram-id-privatevpns@3.8.229.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.10.166.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.56.68.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
@@ -69,6 +81,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.212.215:22222?path=/telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40proxystore11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#proxystore11%7Cmci
 trojan://telegram-id-directvpn@18.132.4.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.134.172.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
