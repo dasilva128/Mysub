@@ -44,6 +44,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Finland](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/Finland/config.txt) |
 | [Austria](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/Austria/config.txt) |
 | [United States](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/United%20States/config.txt) |
+| [Taiwan](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/Taiwan/config.txt) |
 | [Iceland](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/Iceland/config.txt) |
 | [Ireland](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/Ireland/config.txt) |
 | [Singapore](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/Singapore/config.txt) |
@@ -57,6 +58,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [United Kingdom](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/United%20Kingdom/config.txt) |
 | [Iran](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/Iran/config.txt) |
 | [Denmark](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/Denmark/config.txt) |
+
 
 
 
