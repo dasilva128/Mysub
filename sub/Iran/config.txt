@@ -27,7 +27,6 @@ vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5113?security=none&encr
 vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5111?security=none&path=/@LIGHTNING6&encryption=none&host=telewebion.com&headerType=http&type=tcp#%5BTunnel%F0%9F%87%AE%F0%9F%87%B7%5D+%E2%9E%A0+%40V2RayTz+-+All+%7C+23921
 vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5112?security=none&path=/@LIGHTNING6&encryption=none&host=telewebion.com&headerType=http&type=tcp#%5BTunnel%F0%9F%87%AE%F0%9F%87%B7%5D+%E2%9E%A0+%40V2RayTz+-+All+%7C+23922
 vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5113?security=none&path=/@LIGHTNING6&encryption=none&host=telewebion.com&headerType=http&type=tcp#%5BTunnel%F0%9F%87%AE%F0%9F%87%B7%5D+%E2%9E%A0+%40V2RayTz+-+All+%7C+23923
-vless://11e0ef41-8bb9-4469-aa13-3401fe55a9aa@web.besttapsi.com:445?type=ws&path=/KGijgX@RQ2fvry&security=tls&fp=chrome&sni=api.besttapsi.com&alpn=h2,http/1.1#@MrV2Ray
 vless://6435aa64-be46-4145-a05f-e074d5aebc43@81.12.27.16:2046?path=%2F&security=none&encryption=none&type=ws#MCI1
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=%2F&security=none&encryption=none&type=ws#ELiV2RAYMCI
 vless://efe70b53-38d6-4434-f41c-ad45862a9cd6@85.133.253.206:28585?path=%2F&security=none&encryption=none&type=ws#Eli2
