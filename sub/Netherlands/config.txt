@@ -1,5 +1,4 @@
 vless://f3193a9d-02d8-454a-bb37-7bf9e7c3902b@venom.servers.rezasnapp.fun:443?security=none&encryption=none&headerType=http&type=tcp#%40v2logy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 vless://eefcf749-fcfc-4321-b974-2828d4acb15c@185.142.238.35:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=guerrilla-games.com&fp=chrome&security=reality&pbk=imTeVCUujulNZ2LJNaZrWlOGcN0tgm0km15N8jc55j4&sid=dcd651ed#@Capital_NET | MCI
 vless://eefcf749-fcfc-4321-b974-2828d4acb15c@185.142.238.35:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=guerrilla-games.com&fp=chrome&security=reality&pbk=imTeVCUujulNZ2LJNaZrWlOGcN0tgm0km15N8jc55j4&sid=dcd651ed#@Capital_NET | MTN
 vless://e48bd3bf-b241-4d18-8b10-743154b05882@194.5.97.158:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=drive.google.com&alpn=http%2F1.1&fp=chrome&security=reality&pbk=aVwOKq0nDf_ridh7KG-TlQUsTlbktQ262wN1Bli1PwI&sid=89#@Capital_NET | MCI
