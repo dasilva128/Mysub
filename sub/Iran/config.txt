@@ -1,6 +1,3 @@
-vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5111?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
-vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
-vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5113?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
 vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5111?security=none&path=/@LIGHTNING6&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
 vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5112?security=none&path=/@LIGHTNING6&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
 vless://3de8c44d-c094-47d2-89dd-36b41a3accb3@95.81.90.83:5113?security=none&path=/@LIGHTNING6&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40lightning6-Test
