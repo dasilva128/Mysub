@@ -58,6 +58,8 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Poland](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/Poland/config.txt) |
 | [Republic of Lithuania](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/Republic%20of%20Lithuania/config.txt) |
 | [India](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/India/config.txt) |
+| [United Arab Emirates](https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/United%20Arab%20Emirates/config.txt) |
+
 
 
 
