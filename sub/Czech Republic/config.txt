@@ -1,1 +1,0 @@
-vless://b81e28ac-1a99-4b99-8df6-cff0bd7bb983@d3e23f2x3bge4o.cloudfront.net:443/?path=%2Fcurrent_time&security=tls&encryption=none&type=ws&sni=d3e23f2x3bge4o.cloudfront.net#V2rayLinkFreeQuick3
