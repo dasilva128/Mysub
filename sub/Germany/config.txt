@@ -46,6 +46,7 @@ vless://eefcf749-fcfc-4321-b974-2828d4acb15c@142.132.183.55:2096/?type=tcp&encry
 vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?mode=gun&security=reality&encryption=none&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=a18472f7#@Capital_NET
 trojan://telegram-id-privatevpns@18.158.25.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.143.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.28.27.203:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://Telegram---V2ray_vpn_ir@209.38.188.68:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#proxystore11%7Cmtn%E2%9D%A4%EF%B8%8F
 trojan://telegram-id-directvpn@3.125.36.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.70.75.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
