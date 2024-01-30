@@ -44,9 +44,6 @@ vless://eefcf749-fcfc-4321-b974-2828d4acb15c@142.132.183.55:2096/?type=tcp&encry
 vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?mode=gun&security=reality&encryption=none&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=a18472f7#@Capital_NET
 vless://0448c6ea-34ce-487a-93be-8e57bd2f2fa8@116.202.99.47:49124?type=tcp&security=reality&pbk=rBdocIQXi2MdXwQYubRsn4fTG1_3XMZiNgtn9u3yzwI&fp=firefox&sni=dalan-group.de&sid=0bf98883&spx=%2F#@Capital_NET
 vless://cf052982-23bb-4404-8817-05302c50fcd3@116.202.99.47:56372?type=tcp&security=reality&pbk=YdveG9_ciK2YgrnXMN6Ncid3h5dK44rI1Rhb29RTDWE&fp=firefox&sni=sourceforge.net&sid=e7f19002&spx=%2F#@Capital_NET
-vless://c94df578-85f2-4c04-bc86-d18a8eda5a67@mtn---irancell---join.outline-vpn.cloud:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=downloadnl1.xn--mes358a9urctx.com#irancell+24+ID%28%40Outline_Vpn%29
-vless://c94df578-85f2-4c04-bc86-d18a8eda5a67@mtn---irancell---join.outline-vpn.cloud:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=downloadnl1.xn--mes358a9urctx.com#irancell+24+ID%28%40Outline_Vpn%29
-vless://c94df578-85f2-4c04-bc86-d18a8eda5a67@mtn---irancell---join.outline-vpn.cloud:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=downloadnl1.xn--mes358a9urctx.com#irancell+24+ID%28%40Outline_Vpn%29
 trojan://telegram-id-privatevpns@3.69.199.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.153.229.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.123.49.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
