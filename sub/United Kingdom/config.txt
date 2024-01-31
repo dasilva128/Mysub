@@ -94,27 +94,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#@v2rayng_config_amin
 vless://551cec03-459b-44c4-b2f1-e2b00d64c7a0@138.68.137.73:17293/?type=grpc&encryption=none&serviceName=telegram%3A%40proxyforopeta&sni=discord.com&fp=firefox&security=reality&pbk=Vh49zRfE7BzeIquhoEOC6RdvTPz5IkmE1J2imSSZoHg&sid=5d694d7d#@Capital_NET | MCI
 vless://12959e76-3f23-40a3-b94b-848b64c6a234@178.62.76.106:20248/?type=grpc&encryption=none&serviceName=%40proxyforopeta&sni=www.google.com&fp=firefox&security=reality&pbk=2Lxke5-99aKfEtI4_UiNhAB0CJYs4CA_8r-376g2ZWQ&sid=0b03c417#@Capital_NET | MTN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_vpn++MTM`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_vpn++MTM`
-trojan://hYBHjnVkuQ@199499.qqpp.cfd:443?path=%2Fconnect%2F%3Fed%3D2048&security=tls&alpn=http/1.1&host=canva.com&fp=chrome&type=ws&sni=199499.qqpp.cfd#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_Vpn++MTM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_vpn++MTM`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Cafing_vpn_MTM`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Cafing_vpn_MTM`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_vpn++MTM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_vpn++MTM
-trojan://hYBHjnVkuQ@199499.qqpp.cfd:443?path=%2Fconnect%2F%3Fed%3D2048&security=tls&alpn=http/1.1&host=canva.com&fp=chrome&type=ws&sni=199499.qqpp.cfd#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_Vpn++MTM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_vpn++MTM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Cafing_vpn_MTM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Cafing_vpn_MTM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_vpn++MTM`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_vpn++MTM`
-trojan://hYBHjnVkuQ@199499.qqpp.cfd:443?path=%2Fconnect%2F%3Fed%3D2048&security=tls&alpn=http/1.1&host=canva.com&fp=chrome&type=ws&sni=199499.qqpp.cfd#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_Vpn++MTM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Cafing_vpn++MTM`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Cafing_vpn_MTM`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Cafing_vpn_MTM`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TELEGRAM%20:%20@VPNConectd`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Cafing_vpn_MTM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TELEGRAM%20:%20@VPNConectd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TELEGRAM%20:%20@VPNConectd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Cafing_vpn_MTM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TELEGRAM%20:%20@VPNConectd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TELEGRAM%20:%20@VPNConectd`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Cafing_vpn_MTM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TELEGRAM%20:%20@VPNConectd
 trojan://telegram-id-privatevpns@18.171.67.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.176.222.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.42.233.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
