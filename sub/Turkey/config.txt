@@ -1,3 +1,6 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMlF2Q1hqbTVsbzVpZUZrci9zU2Q5U0hObFZnZHV1RmJLdUFoL3VGalI4PQ==@194.15.52.34:8443#%E2%9B%B5%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+PISHiserver%40+%F0%9F%8C%90%F0%9F%90%88
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMlF2Q1hqbTVsbzVpZUZrci9zU2Q5U0hObFZnZHV1RmJLdUFoL3VGalI4PQ==@194.15.52.34:8443#%E2%9B%B5%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+PISHiserver%40+%F0%9F%8C%90%F0%9F%90%88
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMlF2Q1hqbTVsbzVpZUZrci9zU2Q5U0hObFZnZHV1RmJLdUFoL3VGalI4PQ==@194.15.52.34:8443#%E2%9B%B5%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+PISHiserver%40+%F0%9F%8C%90%F0%9F%90%88
 ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR
