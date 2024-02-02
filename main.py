@@ -80,36 +80,40 @@ def save_configs_by_region(configs):
         for config in configs:
             file.write(config + '\n')
 
+def save_configs_by_region(configs):
+    config_folder = "sub"
+    if os.path.exists(config_folder):
+        for folder in os.listdir(config_folder):
+            folder_path = os.path.join(config_folder, folder)
+            if os.path.isdir(folder_path):
+                shutil.rmtree(folder_path)
 
-def create_sub_section():
-    readme_path = "README.md"
-    sub_folder = "sub"
-    found_sub_section = False
+    if not os.path.exists(config_folder):
+        os.makedirs(config_folder)
 
-    if os.path.exists(readme_path):
-        with open(readme_path, 'r', encoding='utf-8') as readme_file:
-            content = readme_file.read()
+    for config in configs:
+        ip = config.split('//')[1].split('/')[0]
+        region = get_region_from_ip(ip)
+        if region:
+            # Create subfolder based on the type of V2Ray link
+            link_type = "other"  # Default to "other" if type is not recognized
+            if config.startswith('vless://'):
+                link_type = "vless"
+            elif config.startswith('ss://'):
+                link_type = "ss"
+            elif config.startswith('trojan://'):
+                link_type = "trojan"
+            elif config.startswith('vmess://'):
+                link_type = "vmess"
 
-            if '## Sub' in content:
-                found_sub_section = True
+            region_folder = os.path.join(config_folder, link_type, region)
+            if not os.path.exists(region_folder):
+                os.makedirs(region_folder)
 
-    new_content = ""
-    new_content += "## Sub\n"
-    new_content += "| Sub |\n"
-    new_content += "|-----|\n"
+            with open(os.path.join(region_folder, 'config.txt'), 'a', encoding='utf-8') as file:
+                file.write(config + '\n')
 
-    for root, dirs, files in os.walk(sub_folder):
-        for directory in dirs:
-            config_path = os.path.join(root, directory, 'config.txt')
-            if os.path.exists(config_path):
-                url = f"https://raw.githubusercontent.com/Saviorhoss/V2py/main/sub/{urllib.parse.quote(directory)}/config.txt"
-                new_content += f"| [{directory}]({url}) |\n"
-
-    with open(readme_path, 'w', encoding='utf-8') as readme_file:
-        if found_sub_section:
-            readme_file.write(content.replace(content[content.find('## Sub'):content.find('\n\n', content.find('## Sub'))], new_content))
-        else:
-            readme_file.write(content + new_content)
+    
 
 if __name__ == "__main__":
     telegram_urls = [
@@ -324,6 +328,8 @@ if __name__ == "__main__":
 "https://t.me/s/proxy_shadosocks",
 "https://t.me/s/v2ray_youtube",
 "https://t.me/s/V2ray_Alpha"
+
+
     ]
 
     all_v2ray_configs = []
@@ -338,3 +344,6 @@ if __name__ == "__main__":
         print("Configs saved successfully.")
     else:
         print("No V2Ray configs found.")
+
+
+
