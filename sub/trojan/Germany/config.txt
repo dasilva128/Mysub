@@ -2,8 +2,6 @@ trojan://telegram-id-privatevpns@52.59.145.27:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.71.180.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.193.96.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.70.41.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@3.126.66.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@35.159.27.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.71.221.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our Channel : @DirectVPN
 trojan://pN2-AfC_TD7aD8ixPprDtw@172.104.147.100:8880?path=%2F%40x2rayn_vpn&security=none&host=FILTERCHE-BEGERESH-K-OMAD.COM&type=ws#%F0%9F%87%A9%F0%9F%87%AA+GERMANY++%F0%9F%8C%9F+%F0%9F%93%8D%40x2rayn_vpn%F0%9F%93%8D
 trojan://pN2-AfC_TD7aD8ixPprDtw@139.162.163.83:8880?path=%2F%40x2rayn_vpn&security=none&host=FILTERCHE-BEGERESH-K-OMAD.COM&type=ws#%F0%9F%87%A9%F0%9F%87%AA+GERMANY++%F0%9F%8C%9F+%F0%9F%93%8D%40x2rayn_vpn%F0%9F%93%8D
