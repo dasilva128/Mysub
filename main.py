@@ -336,7 +336,6 @@ if __name__ == "__main__":
 
     if all_v2ray_configs:
         save_configs_by_region(all_v2ray_configs)
-        create_sub_section()
         print("Configs saved successfully.")
     else:
         print("No V2Ray configs found.")
