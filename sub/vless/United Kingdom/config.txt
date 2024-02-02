@@ -22,7 +22,4 @@ vless://6448f42a-bcc6-4901-833f-d1fa6c298f0e@dari.news-liqgroup1278.site:2005?ty
 vless://b505bb78-663f-45bd-8c90-989322ded4a1@t04ell.khan-milanvictory1278.site:2003?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=kh.darig.varzesh7-liqgroup.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE90
 vless://f58d9756-cfc0-44eb-acc4-59237e3845f4@t04ell.khan-milanvictory1278.site:2003?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=kh.darig.varzesh7-liqgroup.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE91
 vless://3c41365b-a875-44fc-ab55-6a00a8e13765@192.248.151.249:8080?security=none&encryption=none&host=fst.com&headerType=http&type=tcp#@MrV2Ray
-vless://ec058cc9-e6a8-409d-871b-ed97ded392a5@45.32.178.8:13742?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
-vless://ec058cc9-e6a8-409d-871b-ed97ded392a5@45.32.178.8:13742?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
-vless://ec058cc9-e6a8-409d-871b-ed97ded392a5@45.32.178.8:13742?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM
 vless://join-channel-foxrayiran@45.67.85.111:443?security=reality&encryption=none&pbk=oSBCQtFYo78mD4BFlVVx6J6ykyXUQRoiOtfLdDnkGzI&headerType=none&fp=ios&spx=%2Ffoxrayiran&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=289ce33d#join+channel+%40foxrayiran
