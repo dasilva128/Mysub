@@ -20,9 +20,6 @@ vless://887bad5b-1e83-cccc-7099-39124891dd9d@l16.darklord.life:443?type=tcp&secu
 vless://c96fc55a-2e6e-d73f-956c-a04835ff148b@l36.darklord.life:443?type=tcp&security=none&headerType=http&host=divarcdn.com&path=%2F#@vless_vmess
 vless://bd39454f-d797-9846-5c66-71923dd03ed7@l14.darklord.life:443?type=tcp&security=none&headerType=http&host=divarcdn.com&path=%2F#@vless_vmess
 vless://05e56cd6-0247-d65a-71c1-9654d57562bb@l14.darklord.life:443?type=tcp&security=none&headerType=http&host=divarcdn.com&path=%2F#@vless_vmess200 گیگ برای همه اوپراتورها
-vless://4e0cdc53-ef8f-4d8a-b779-5f75006b35ac@188.121.114.121:778?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy`
-vless://4e0cdc53-ef8f-4d8a-b779-5f75006b35ac@188.121.114.121:778?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
-vless://4e0cdc53-ef8f-4d8a-b779-5f75006b35ac@188.121.114.121:778?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy`
 vless://05a458e1-bc26-476a-dcf1-156a17a6a27b@85.9.110.167:51436/?encryption=none&host=speedtest.net&type=tcp&headerType=http#%40ELiV2RAY
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
