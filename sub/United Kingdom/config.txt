@@ -195,12 +195,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40V2logy
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40V2logy
 vless://3c41365b-a875-44fc-ab55-6a00a8e13765@192.248.151.249:8080?security=none&encryption=none&host=fst.com&headerType=http&type=tcp#@MrV2Ray
-vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
-vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
-vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
-vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
-vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
-vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#telegram+%3A+%40filtering2020
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#telegram+%3A+%40filtering2020`
 vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
@@ -225,6 +219,12 @@ vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&
 vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#telegram+%3A+%40filtering2020
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#telegram+%3A+%40filtering2020`
+vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
+vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
+vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
+vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
+vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
+vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
 vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
 vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
 vless://90fa5bcd-8ceb-4dfd-8bd1-b1fafd29c068@chnl.amirv2ray83.sbs:8080?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=chnl.amirv2ray83.sbs#%40sabz_v2ray+%7CTELEGRAM
