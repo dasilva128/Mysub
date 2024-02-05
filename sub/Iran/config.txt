@@ -21,7 +21,6 @@ vless://46d89eb7-f49a-4167-9bc1-08e994ffa5ab@95.38.102.206:4083?security=none&en
 vless://6bafb99a-ce64-4114-90b2-01a1cdd45738@62.60.178.17:9999?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
 vless://2cc67b85-4369-45ab-9b64-08e166ad56b1@62.60.178.17:9999?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
 vless://ffbe3542-ad9e-4d02-a339-096dae232ba4@62.60.202.85:14184?type=tcp&security=tls&fp=randomized&sni=s0.3dv2dp1ds.online#NL-%F0%9F%87%B3%F0%9F%87%B1@DarkTeam_VPN%7BMCI%7D
-vless://6bafb99a-ce64-4114-90b2-01a1cdd45738@62.60.178.17:9999?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Capoit
 vless://2cc67b85-4369-45ab-9b64-08e166ad56b1@62.60.178.17:9999?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Capoit
 vless://20c90a40-be6b-4f5c-a293-63c7d639739c@5.61.31.203:8080/?type=grpc&encryption=none&serviceName=8080vless#ELi
 vless://20c90a40-be6b-4f5c-a293-63c7d639739c@5.61.31.203:8080/?type=grpc&encryption=none&serviceName=8080vless#ELi
