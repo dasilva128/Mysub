@@ -23,6 +23,9 @@ vless://2cc67b85-4369-45ab-9b64-08e166ad56b1@62.60.178.17:9999?security=none&enc
 vless://ffbe3542-ad9e-4d02-a339-096dae232ba4@62.60.202.85:14184?type=tcp&security=tls&fp=randomized&sni=s0.3dv2dp1ds.online#NL-%F0%9F%87%B3%F0%9F%87%B1@DarkTeam_VPN%7BMCI%7D
 vless://14e93220-bf39-4b11-917c-a35ecf92a92a@GER.VOID-SHOP.SITE:21259?security=none&headerType=http&type=tcp&host=zula.ir#@MrV2Ray
 vless://f5daa9f0-eb6b-4ce0-a4ab-4e99339ed42d@37.32.7.236:4444?security=none&encryption=none&headerType=http&type=tcp#@MrV2Ray
+vless://2cc67b85-4369-45ab-9b64-08e166ad56b1@62.60.178.17:9999?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#t.me%2FKasperskyfree+%F0%9F%94%93%F0%9F%97%9D%EF%B8%8F+%D8%A8%D8%A7+%D9%85%D8%A7+%D8%A8%D8%A7%D8%B4%DB%8C%D9%86+%D8%AA%D8%A7+%DA%AF%D9%85+%D9%86%D8%B4%DB%8C%D9%86
+vless://2cc67b85-4369-45ab-9b64-08e166ad56b1@62.60.178.17:9999?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#t.me%2FKasperskyfree+%F0%9F%94%93%F0%9F%97%9D%EF%B8%8F+%D8%A8%D8%A7+%D9%85%D8%A7+%D8%A8%D8%A7%D8%B4%DB%8C%D9%86+%D8%AA%D8%A7+%DA%AF%D9%85+%D9%86%D8%B4%DB%8C%D9%86
+vless://2cc67b85-4369-45ab-9b64-08e166ad56b1@62.60.178.17:9999?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#t.me%2FKasperskyfree+%F0%9F%94%93%F0%9F%97%9D%EF%B8%8F+%D8%A8%D8%A7+%D9%85%D8%A7+%D8%A8%D8%A7%D8%B4%DB%8C%D9%86+%D8%AA%D8%A7+%DA%AF%D9%85+%D9%86%D8%B4%DB%8C%D9%86
 vless://a5964d15-99e2-477e-8897-166ffff4d023@185.143.233.5:8080?path=%2F&security=none&encryption=none&host=nimneter.com&type=ws#S2-ELiV2RAY
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
