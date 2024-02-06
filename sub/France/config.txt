@@ -15,12 +15,6 @@ vless://d2176467-4879-4beb-94e9-f1fa8177d8e2@46.105.218.0:16741/?type=grpc&encry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#%40daredevill_404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#%40daredevill_404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#%40daredevill_404
-vless://8e38b8ba-c2a8-4fd6-af83-30aa7e890616@20.199.47.146:8080?headerType=http&host=fast.com&security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?mode=gun&security=reality&encryption=none&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&fp=chrome&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=grpc&serviceName=&sni=ea.com&sid=b1b454f6#🇨🇵FR-Reality-@ELiV2RAY
-vless://8e38b8ba-c2a8-4fd6-af83-30aa7e890616@20.199.47.146:8080?headerType=http&host=fast.com&security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?mode=gun&security=reality&encryption=none&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&fp=chrome&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=grpc&serviceName=&sni=ea.com&sid=b1b454f6#🇨🇵FR-Reality-@ELiV2RAY
-vless://8e38b8ba-c2a8-4fd6-af83-30aa7e890616@20.199.47.146:8080?headerType=http&host=fast.com&security=none&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?mode=gun&security=reality&encryption=none&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&fp=chrome&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=grpc&serviceName=&sni=ea.com&sid=b1b454f6#🇨🇵FR-Reality-@ELiV2RAY
 trojan://telegram-id-privatevpns@13.38.44.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S882)🇨🇵t.me/Vmess_iran
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
 trojan://telegram-id-privatevpns@13.38.44.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S882)
