@@ -23,9 +23,6 @@ vless://46d89eb7-f49a-4167-9bc1-08e994ffa5ab@95.38.102.206:4083?security=none&en
 vless://ffbe3542-ad9e-4d02-a339-096dae232ba4@62.60.202.85:14184?type=tcp&security=tls&fp=randomized&sni=s0.3dv2dp1ds.online#NL-%F0%9F%87%B3%F0%9F%87%B1@DarkTeam_VPN%7BMCI%7D
 vless://14e93220-bf39-4b11-917c-a35ecf92a92a@GER.VOID-SHOP.SITE:21259?security=none&headerType=http&type=tcp&host=zula.ir#@MrV2Ray
 vless://f5daa9f0-eb6b-4ce0-a4ab-4e99339ed42d@37.32.7.236:4444?security=none&encryption=none&headerType=http&type=tcp#@MrV2Ray
-ss://YWVzLTI1Ni1nY206LzhzRk9IOVB2SmZNWXdhejN6dW9SdEdUc1pnZ1J1U28zdVZ5bmN2dzR3VT0=@r.turbovip.lol:44824#%40config_proxy`
-ss://YWVzLTI1Ni1nY206LzhzRk9IOVB2SmZNWXdhejN6dW9SdEdUc1pnZ1J1U28zdVZ5bmN2dzR3VT0=@r.turbovip.lol:44824#%40config_proxy
-ss://YWVzLTI1Ni1nY206LzhzRk9IOVB2SmZNWXdhejN6dW9SdEdUc1pnZ1J1U28zdVZ5bmN2dzR3VT0=@r.turbovip.lol:44824#%40config_proxy`
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
 vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6thc7mg2
