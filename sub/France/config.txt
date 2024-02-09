@@ -1,6 +1,6 @@
 trojan://telegram-id-privatevpns@35.181.226.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.247.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-directvpn@13.36.192.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@15.236.112.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYWZlNGMzNWUwZjQyM2Zh@94.131.9.42:57456#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%8C%8F+%40customv2ray+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@94.131.9.42:57456#%F0%9F%87%AB%F0%9F%87%B7%F0%9F%8C%8F+%40customv2ray+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYWZlNGMzNWUwZjQyM2Zh@94.131.9.42:57456#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
@@ -14,6 +14,9 @@ vless://d2176467-4879-4beb-94e9-f1fa8177d8e2@46.105.218.0:16741/?type=grpc&encry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#%40daredevill_404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#%40daredevill_404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#%40daredevill_404
+trojan://telegram-id-directvpn@15.236.112.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇫🇷]t.me/ConfigsHub`
+trojan://telegram-id-directvpn@15.236.112.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.236.112.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇫🇷]t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@13.38.44.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S882)🇨🇵t.me/Vmess_iran
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
 trojan://telegram-id-privatevpns@13.38.44.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S882)
