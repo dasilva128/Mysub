@@ -8,6 +8,6 @@ vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=%2F&
 trojan://6229112c-62ef-4a35-a96a-2c09d29f5a0a@ca-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281393%29%20CA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.68.192.77:443?path=%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=963c1f6a-8485-443a-a386-4e6d34a64dc8.mrvi.online&fp=chrome&type=ws&sni=963C1F6A-8485-443a-a386-4E6D34A64dc8.MRvi.ONline#cdn_vless_ws
 vless://dba0b51a-75e8-4218-86a5-f001312e1ea1@23.227.38.26:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=kasler.harchishod.top#%40flyv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSzVWSDNTRVdWZHlsY0toTHNDeU9T@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSzVWSDNTRVdWZHlsY0toTHNDeU9T@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSzVWSDNTRVdWZHlsY0toTHNDeU9T@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPb09aSjc0ZXdIZzRMRUN4T3NhWHh3@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPb09aSjc0ZXdIZzRMRUN4T3NhWHh3@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPb09aSjc0ZXdIZzRMRUN4T3NhWHh3@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE`
