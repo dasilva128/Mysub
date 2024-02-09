@@ -3,11 +3,11 @@ trojan://telegram-id-directvpn@35.182.174.232:22222?security=tls&alpn=http/1.1&h
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.183.38.122:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.166.180:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 ss://YWVzLTI1Ni1nY206YVNFLzI2QzlNamwrTHJuRXdYa0t2NkVySDl5ZklsdDlTZmZYQ0FFRENrcz0=@ca-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282006%29%20CA
-vless://1f63025e-2510-4fc8-a244-2bb964a85a4b@Mci.dgi000.store:2096?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=mah1.haSmailKorea.storE#CDN+Mahsa+1
-vless://mahsa-azadi-az-inja-migzarecdn@Mci.dgi000.store:2087?path=%2F%40mahsa_net+%40azadi_az_inja_migzare&security=tls&encryption=none&alpn=h2&host=mah4.HasmailkOrea.storE&fp=chrome&type=ws&sni=mah4.HasmailkOrea.storE#Mahsa+2+%3A+CDN
-vless://f4674168-f45c-45ed-8e6c-78ed71d3114f@Mci.dgi000.store:2087?path=%2F%40mahsa_net+%40azadi_az_inja_migzare&security=tls&encryption=none&alpn=h2&host=mAh3.irAnWeB.ShOP&fp=chrome&type=ws&sni=mAh3.irAnWeB.ShOP#Mtproto_Dx+CDN+1
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joinchannel.jokerv2ray.store#@Capital_NET
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=%2F&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=joinchannel.sameasyou.sbs#@Capital_NET
 trojan://6229112c-62ef-4a35-a96a-2c09d29f5a0a@ca-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281393%29%20CA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.68.192.77:443?path=%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=963c1f6a-8485-443a-a386-4e6d34a64dc8.mrvi.online&fp=chrome&type=ws&sni=963C1F6A-8485-443a-a386-4E6D34A64dc8.MRvi.ONline#cdn_vless_ws
 vless://dba0b51a-75e8-4218-86a5-f001312e1ea1@23.227.38.26:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=kasler.harchishod.top#%40flyv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSzVWSDNTRVdWZHlsY0toTHNDeU9T@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSzVWSDNTRVdWZHlsY0toTHNDeU9T@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSzVWSDNTRVdWZHlsY0toTHNDeU9T@toronto.telegavpn.org:31024#🇨🇦 Toronto, 2 GB, FREE`
