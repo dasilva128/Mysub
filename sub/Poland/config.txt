@@ -8,4 +8,7 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#Channel%20id%3A%20%
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B5%F0%9F%87%B1
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9101#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B5%F0%9F%87%B1
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9102#t.me%2FOutlineVpnOfficial%20%7C%20%282013%29%20PL
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#[🏁]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ᴘᴏʟᴀɴᴅ(ᴘʟ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#[🏁]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ᴘᴏʟᴀɴᴅ(ᴘʟ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
 vless://b0bb8a5f-7396-48bc-84dc-122b7c0e79d5@70.34.248.208:443?mode=gun&security=reality&encryption=none&pbk=aKO0x381oZn4mIKh7IVuH_lO3hDX1o_lG83kWw6eqiE&fp=chrome&type=grpc&serviceName=&sni=account.zula.ir&sid=12bcf69d#%F0%9F%94%92+VL-GRPC-RLT+%F0%9F%87%B5%F0%9F%87%B1+PL+1+%3D%3E+%40v2ray_youtube
