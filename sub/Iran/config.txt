@@ -18,7 +18,6 @@ vless://bd39454f-d797-9846-5c66-71923dd03ed7@l14.darklord.life:443?type=tcp&secu
 vless://05e56cd6-0247-d65a-71c1-9654d57562bb@l14.darklord.life:443?type=tcp&security=none&headerType=http&host=divarcdn.com&path=%2F#@vless_vmess200 گیگ برای همه اوپراتورها
 vless://1cc913d3-fa5c-f2d6-d199-3793aa8d6837@z2.darklord.life:443?type=tcp&security=none&headerType=http&host=divarcdn.com&path=%2F#Vizhe2360
 vless://1e7650a4-625f-d0cd-e5bc-cfb55c258b1e@l3.darklord.life:443?type=tcp&security=none&headerType=http&host=divarcdn.com&path=%2F#Vizhe
-vless://f1c09a24-ed45-4e7b-bbab-e1c0d4fa4d45@62.60.161.253:2083?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%5BTunnel%F0%9F%87%AE%F0%9F%87%B7%5D+%E2%9E%A0+%40V2RayTz+%7C+24584
 vless://00449c28-fdd4-4314-90c2-4d6c1736403e@62.60.132.81:443/?type=tcp&encryption=none#%5BTunnel%F0%9F%87%AE%F0%9F%87%B7%5D+%E2%9E%A0+%40V2RayTz+%7C+24604
 vless://384104f1-104d-4716-f347-8995202aa245@62.60.172.100:46146/?type=ws&encryption=none&path=%2F#%5BTunnel%F0%9F%87%AE%F0%9F%87%B7%5D+%E2%9E%A0+%40V2RayTz+%7C+24605
 vless://750eb3e6-7e0b-47b9-a6f2-79bd409ca7a8@tr1.tucn-serves.info:56809?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp#%D8%AA%D8%B1%DA%A9%DB%8C%D9%87+%F0%9F%87%B9%F0%9F%87%B7%28%D8%A2%DB%8C%D9%BE%DB%8C+%D8%AB%D8%A7%D8%A8%D8%AA%29++%40lrnbymaa
