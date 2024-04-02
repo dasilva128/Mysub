@@ -1,2 +1,1 @@
 vless://azadi-az-inja-migzare-free@azadi-az-inja-migzare-d2.dgi000.store:18859?mode=gun&security=reality&encryption=none&pbk=BV5X3Fxa17xvuy9zqQg1LQPt2Nrn367TkAG1m8nkoDE&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.bahmanbroker.com&sid=49fc#Mahsa+3
-vless://43951cd8-c36c-4f4e-b697-2b834a3aa401@certificate.mitsonic.com:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=miza-grpc-c2894dcc979a990558f9e84851626b6fe41a66c8.mitsonic.com#%40V2ray_NG
