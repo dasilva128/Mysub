@@ -1,2 +1,0 @@
-vless://ecf12c88-d43b-41f0-ad93-eba312d2afd2@eyd1403.mr-ocean.click:2087?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=erujwihEqkSjt1uTVsFnTkiVwvuwDMoc2ndRPC-e8iE&sid=512ef437&spx=%2F&type=grpc&serviceName=%40OceanNetworkRObot&mode=gun#irancell-erljuig9
-vless://OceanNetworkRObot@eyd1403.mr-ocean.click:8085?encryption=none&security=reality&sni=google.com&fp=firefox&pbk=dD9iuT1JoLpxewYCt0gMjR7ESN8r0HxPHPvGqlih3UE&sid=669dbda4&spx=%2F&type=tcp&headerType=none#2-yuq4ecr6
