@@ -34,7 +34,7 @@ def get_v2ray_links(url):
 def get_region_from_ip(ip):
     api_endpoints = [
         f'https://ipapi.co/{ip}/json/',
-        f'https://ipwhois.app/json/{ip}',
+        f'https://ipwho.is/{ip}',
         f'http://www.geoplugin.net/json.gp?ip={ip}',
         f'https://api.ipbase.com/v1/json/{ip}'
     ]
