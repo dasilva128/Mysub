@@ -1,7 +1,0 @@
-services:
-  worker:
-    build: .
-    restart: always
-    resources:
-      cpu: 1000m
-      memory: 3Gi
