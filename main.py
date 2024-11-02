@@ -4,6 +4,7 @@ import os
 import shutil
 from datetime import datetime
 import urllib.parse
+import speedtest
 
 
 def get_v2ray_links(url):
@@ -50,6 +51,12 @@ def get_region_from_ip(ip):
             print(f"Error retrieving region from {endpoint}: {e}")
     return None
 
+def test_speed():
+    st = speedtest.Speedtest()
+    st.download()
+    st.upload()
+    return st.results.download / 1_000_000, st.results.upload / 1_000_000  # Convert to Mbps
+
 def save_configs_by_region(configs):
     config_folder = "sub"
     if os.path.exists(config_folder):
@@ -69,8 +76,9 @@ def save_configs_by_region(configs):
             if not os.path.exists(region_folder):
                 os.makedirs(region_folder)
 
+            download_speed, upload_speed = test_speed()
             with open(os.path.join(region_folder, 'config.txt'), 'a', encoding='utf-8') as file:
-                file.write(config + '\n')
+                file.write(f"{config} | Download Speed: {download_speed:.2f} Mbps | Upload Speed: {upload_speed:.2f} Mbps\n")
 
     all_configs_folder = "all_configs"
     if not os.path.exists(all_configs_folder):
@@ -80,41 +88,19 @@ def save_configs_by_region(configs):
         for config in configs:
             file.write(config + '\n')
 
-
-def save_configs_by_type(configs):
-    config_folder = "sub"
-    if os.path.exists(config_folder):
-        for folder in os.listdir(config_folder):
-            folder_path = os.path.join(config_folder, folder)
-            if os.path.isdir(folder_path):
-                shutil.rmtree(folder_path)
-
-    if not os.path.exists(config_folder):
-        os.makedirs(config_folder)
-
-    for config in configs:
-        if config.startswith('vless://'):
-            config_type = 'vless'
-        elif config.startswith('ss://'):
-            config_type = 'ss'
-        elif config.startswith('trojan://'):
-            config_type = 'trojan'
-        elif config.startswith('tuic://'):
-            config_type = 'tuic'
-        else:
-            config_type = 'other'
-
-        type_folder = os.path.join(config_folder, config_type)
-        if not os.path.exists(type_folder):
-            os.makedirs(type_folder)
-
-        with open(os.path.join(type_folder, 'config.txt'), 'a', encoding='utf-8') as file:
-            file.write(config + '\n')
-
-    
+def send_file_to_telegram_channel(file_path, token, channel_id):
+    url = f"https://api.telegram.org/bot{token}/sendDocument"
+    with open(file_path, 'rb') as file:
+        response = requests.post(url, data={'chat_id': channel_id}, files={'document': file})
+        
+    if response.status_code == 200:
+        print("File sent successfully.")
+    else:
+        print(f"Failed to send file. Error: {response.text}")
 
 if __name__ == "__main__":
     telegram_urls = [
+                
 "https://t.me/s/V2range",
 "https://t.me/s/Outline_ir",
 "https://t.me/s/outlinevpnir",
@@ -344,6 +330,18 @@ if __name__ == "__main__":
 
     if all_v2ray_configs:
         save_configs_by_region(all_v2ray_configs)
-        print("Configs saved successfully.")
+        
+        # ارسال فایل به کانال تلگرام
+        token = '5390914661:AAFumx5d-Q7N3r3dpMkkGzlWnsRZ-ez_GXg'  # توکن ربات خود را در اینجا قرار دهید
+        channel_id = '@xxx12dd'  # شناسه کانال خود را در اینجا قرار دهید
+
+        # ارسال فایل‌های پیکربندی
+        for region in os.listdir("sub"):
+            region_folder = os.path.join("sub", region)
+            if os.path.isdir(region_folder):
+                file_path = os.path.join(region_folder, 'config.txt')
+                send_file_to_telegram_channel(file_path, token, channel_id)
+
+        print("Configs saved and sent successfully.")
     else:
         print("No V2Ray configs found.")
