@@ -4,6 +4,7 @@ import os
 import shutil
 from datetime import datetime
 import urllib.parse
+import speedtest
 
 
 def get_v2ray_links(url):
@@ -50,6 +51,12 @@ def get_region_from_ip(ip):
             print(f"Error retrieving region from {endpoint}: {e}")
     return None
 
+def test_speed():
+    st = speedtest.Speedtest()
+    st.download()
+    st.upload()
+    return st.results.download / 1_000_000, st.results.upload / 1_000_000  # Convert to Mbps
+
 def save_configs_by_region(configs):
     config_folder = "sub"
     if os.path.exists(config_folder):
@@ -69,8 +76,9 @@ def save_configs_by_region(configs):
             if not os.path.exists(region_folder):
                 os.makedirs(region_folder)
 
+            download_speed, upload_speed = test_speed()
             with open(os.path.join(region_folder, 'config.txt'), 'a', encoding='utf-8') as file:
-                file.write(config + '\n')
+                file.write(f"{config} | Download Speed: {download_speed:.2f} Mbps | Upload Speed: {upload_speed:.2f} Mbps\n")
 
     all_configs_folder = "all_configs"
     if not os.path.exists(all_configs_folder):
@@ -92,7 +100,8 @@ def send_file_to_telegram_channel(file_path, token, channel_id):
 
 if __name__ == "__main__":
     telegram_urls = [
-        "https://t.me/s/V2range",
+                
+"https://t.me/s/V2range",
 "https://t.me/s/Outline_ir",
 "https://t.me/s/outlinevpnir",
 "https://t.me/s/ZibaNabz",
@@ -324,7 +333,7 @@ if __name__ == "__main__":
         
         # ارسال فایل به کانال تلگرام
         token = '5390914661:AAFumx5d-Q7N3r3dpMkkGzlWnsRZ-ez_GXg'  # توکن ربات خود را در اینجا قرار دهید
-        channel_id = '-1001764670025'  # شناسه کانال خود را در اینجا قرار دهید
+        channel_id = '@xxx12dd'  # شناسه کانال خود را در اینجا قرار دهید
 
         # ارسال فایل‌های پیکربندی
         for region in os.listdir("sub"):
